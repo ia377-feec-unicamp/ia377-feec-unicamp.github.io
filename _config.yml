@@ -100,8 +100,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: 
-    url: "https://www.linkedin.com/in/christianrothenberg/"
+    username: FEEC - Unicamp (LinkedIn)
+    url: "https://br.linkedin.com/company/feec-unicamp"
     desc: Connect with me on LinkedIn
     share: true
 
@@ -114,8 +114,8 @@ social:
 
   - name: YouTube
     icon: youtube
-    username: "@intrigdcafeecunicamp288"
-    url: "https://www.youtube.com/channel/UClnTI8YeOMGOR0YTBYN4DJw"
+    username: FEEC - Unicamp (YouTube)
+    url: "https://www.youtube.com/channel/UChptcdqmzNLQ8Oe03DEjIDQ"
     desc: Subscribe on YouTube
     share: false
 
