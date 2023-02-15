@@ -79,8 +79,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: "@chesteve" 
-    url: https://twitter.com/chesteve
+    username: 
+    url: "" 
     desc: Follow me on Twitter
     share: true
 
@@ -93,7 +93,7 @@ social:
 
   - name: GitHub
     icon: github
-    username: IA377
+    username: IA377 (GitHub)
     url: https://github.com/ia377-feec-unicamp
     desc: Fork me on GitHub
     share: false
