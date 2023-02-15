@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "FEEC Seminars"
+title: "Schedule"
 permalink: /schedule/
 main_nav: true
 ---
