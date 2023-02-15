@@ -27,6 +27,7 @@ The tentative seminar topics to be scheduled include:
 * Digital Twins
 * Intent-Based Networking (IBN)
 * Metaverse
+* XR (augmented reality - AR), virtual reality - VR, and mixed reality - MR)
 * Blockchain 
 * AI/ML 
 * Quantum Communications & Computing
