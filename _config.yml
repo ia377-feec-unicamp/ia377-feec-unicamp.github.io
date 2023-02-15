@@ -79,8 +79,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: "" 
-    url: ""
+    username: "@chesteve" 
+    url: https://twitter.com/chesteve
     desc: Follow me on Twitter
     share: true
 
@@ -101,7 +101,7 @@ social:
   - name: LinkedIn
     icon: linkedin
     username: 
-    url: ""
+    url: "https://www.linkedin.com/in/christianrothenberg/"
     desc: Connect with me on LinkedIn
     share: true
 
@@ -114,8 +114,8 @@ social:
 
   - name: YouTube
     icon: youtube
-    username: ""
-    url: ""
+    username: "@intrigdcafeecunicamp288"
+    url: "https://www.youtube.com/channel/UClnTI8YeOMGOR0YTBYN4DJw"
     desc: Subscribe on YouTube
     share: false
 
