@@ -14,3 +14,6 @@ main_nav: true
 Undergraduate and fraduate students will be exposed to top-tier talks and panel conversations by national and international experts from academia and industry.
 
 The students are expected to writeup a summary and answer some key aspects of each seminar, in addition to other discussion and learning activities.
+
+Consider joining the [IA377 Seminar Mailing list](https://groups.google.com/g/ia377-feec-unicamp/) and adding the events to your Agenda ([Google Calendar](https://calendar.google.com/calendar/embed?src=c_bd56c44a65b9dae27fe531b2b5c684a6c8fdf8a410edb595be2709bc16e55942%40group.calendar.google.com&ctz=America%2FSao_Paulo
+), [iCal](https://calendar.google.com/calendar/ical/c_bd56c44a65b9dae27fe531b2b5c684a6c8fdf8a410edb595be2709bc16e55942%40group.calendar.google.com/public/basic.ics)).
