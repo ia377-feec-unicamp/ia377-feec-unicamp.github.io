@@ -1,4 +1,4 @@
-# ia377-feec-unicamp.github.io
+# FEEC-UNICAMP IA377
 
 https://ia377-feec-unicamp.github.io/
 
