@@ -27,3 +27,10 @@ main_nav: true
   {% if forloop.last == false %}<hr>{% endif %}
 {% endfor %}
 <br>
+
+<h2 class="post-link">Calendar</h2>	
+<p dir="auto"> Add the seminar schedule to your <a href="https://calendar.google.com/calendar/embed?src=c_bd56c44a65b9dae27fe531b2b5c684a6c8fdf8a410edb595be2709bc16e55942%40group.calendar.google.com&ctz=America%2FSao_Paulo" rel="nofollow">Google Calendar</a> or <a href="https://calendar.google.com/calendar/ical/c_bd56c44a65b9dae27fe531b2b5c684a6c8fdf8a410edb595be2709bc16e55942%40group.calendar.google.com/public/basic.ics" rel="nofollow">iCal</a> application.
+</p>	
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_bd56c44a65b9dae27fe531b2b5c684a6c8fdf8a410edb595be2709bc16e55942%40group.calendar.google.com&ctz=America%2FSao_Paulo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
