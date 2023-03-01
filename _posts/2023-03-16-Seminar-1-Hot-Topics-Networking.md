@@ -3,7 +3,7 @@ layout: post
 title:  "Seminar 1 - Hot Topics in Computer Networking"
 date:   2023-03-16
 author: Prof. Christian Rothenberg
-categories: Seminars
+categories: seminars
 ---
 
 Following the state of the art is paramount for sound and impact scientific practices
