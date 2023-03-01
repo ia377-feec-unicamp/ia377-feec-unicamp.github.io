@@ -17,6 +17,9 @@ html, body {
 	margin: 0;
 	padding: 0;
 	width: 100%;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
 }
 
 ol.default {
@@ -376,6 +379,7 @@ pre code.hljs {
 	padding: 1em 1em 2em 1em;
 	background-color: $highlight-color;
 	color: $white;
+	margin-top: auto;
 	a {
 	  color: $link-color;
 	  &:active,
