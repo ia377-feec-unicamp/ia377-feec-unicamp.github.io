@@ -55,10 +55,10 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: classes
-    desc: "Classes contents"
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
 
-  - cat: seminars
+  - cat: seminar
     desc: "Seminar contents"
 
 # Social icons and sharing options
