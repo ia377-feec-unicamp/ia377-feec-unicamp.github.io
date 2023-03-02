@@ -26,7 +26,7 @@ The 10 selected hot topics are as follows:
 * OpenRAN
 
 **Bio:** 
-#![alt text](https://www.dca.fee.unicamp.br/~chesteve/figures/chesteve3.png "Logo Title Text 1")
+<>![alt text](https://www.dca.fee.unicamp.br/~chesteve/figures/chesteve3.png "Logo Title Text 1")
 
 <img alt="Prof Christian Esteve Rothenberg Foto bio FEEC UNICAMP" src="https://www.dca.fee.unicamp.br/%7Echesteve/figures/chesteve3.png" style="width: 169px; height: 194px;">
 
