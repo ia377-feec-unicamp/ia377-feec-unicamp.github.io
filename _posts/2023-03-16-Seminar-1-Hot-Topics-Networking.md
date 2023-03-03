@@ -2,7 +2,7 @@
 layout: post
 title:  "Hot Topics in Computer Networking"
 date:   2023-03-16
-author: Prof. Christian Rothenberg
+author: Prof. Christian Rothenberg (Unicamp)
 categories: Seminars
 ---
 
