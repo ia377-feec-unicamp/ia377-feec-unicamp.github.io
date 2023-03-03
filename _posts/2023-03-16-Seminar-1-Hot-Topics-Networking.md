@@ -28,6 +28,7 @@ The 10 selected hot topics are as follows:
 **Bio:** 
 
 <img alt="Prof Christian Esteve Rothenberg Foto bio FEEC UNICAMP" src="https://www.dca.fee.unicamp.br/%7Echesteve/figures/chesteve3.png" style="width: 169px; height: 194px;">
+*Christian Rodolfo Esteve Rothenberg, Associate Professor, University of Campinas (Unicamp)*
 
 Since August 2013, Christian Esteve Rothenberg is Head of the Information & Networking Technologies Research & Innovation Group (INTRIG) and Associate Professor at University of Campinas (UNICAMP), where he received his Ph.D. in Electrical and Computer Engineering in 2010.
 From 2010 to 2013, he worked as Senior Research Scientist in the areas of IP systems and networking at CPqD R&D Center in Telecommunications, Campinas, Brazil.
