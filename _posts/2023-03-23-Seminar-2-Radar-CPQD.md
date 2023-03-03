@@ -12,7 +12,7 @@ categories: Seminars
 
 **Bio:** 
 
-<img alt="Paulo Curado CPQD Foto bio" src="[https://www.dca.fee.unicamp.br/%7Echesteve/figures/chesteve3.png](https://media.datacenterdynamics.com/media/images/Paulo_Curado_-_CPQD.2e16d0ba.fill-200x200.jpg)" style="width: 200px; height: 200px;">
+<img alt="Paulo Curado CPQD Foto bio" src="[https://media.datacenterdynamics.com/media/images/Paulo_Curado_-_CPQD.2e16d0ba.fill-200x200.jpg](https://media.datacenterdynamics.com/media/images/Paulo_Curado_-_CPQD.2e16d0ba.fill-200x200.jpg)" style="width: 200px; height: 200px;">
 *Paulo Jose Pereira Curado. Diretor de Inovação, CPQD.*  
 
 Possui graduação em Engenharia Mecânica pela Universidade Estadual de Campinas (1985), 
