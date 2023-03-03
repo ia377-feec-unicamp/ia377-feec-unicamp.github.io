@@ -12,7 +12,7 @@ categories: Seminars
 
 **Bio:** 
 
-<img alt="Paulo Curado CPQD Foto bio" src="[https://media.datacenterdynamics.com/media/images/Paulo_Curado_-_CPQD.2e16d0ba.fill-200x200.jpg](https://media.datacenterdynamics.com/media/images/Paulo_Curado_-_CPQD.2e16d0ba.fill-200x200.jpg)" style="width: 200px; height: 200px;">
+<img alt="Paulo Curado CPQD Foto bio" src="https://media.datacenterdynamics.com/media/images/Paulo_Curado_-_CPQD.2e16d0ba.fill-200x200.jpg"  style="width: 200px; height: 200px;">
 *Paulo Jose Pereira Curado. Diretor de Inovação, CPQD.*  
 
 Possui graduação em Engenharia Mecânica pela Universidade Estadual de Campinas (1985), 
@@ -25,6 +25,6 @@ Tem experiência na condução de programas de Inovação Aberta e Conexões ao 
 **Recording and materials:**
 
 O resultado desse cuidadoso trabalho de pesquisa realizado pelo CPQD está disponível para os interessados  em 
-[https://materiais.cpqd.com.br/lp_relatorio_radar_tecnologico_2021_2022_cpqd]([https://docs.google.com/presentation/d/1cYE0TWTwzWpUtPCpfqIFdxkvTUn6pzN00sPrRWQmTVE/] 
+ [https://materiais.cpqd.com.br/lp_relatorio_radar_tecnologico_2021_2022_cpqd](https://materiais.cpqd.com.br/lp_relatorio_radar_tecnologico_2021_2022_cpqd)
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
