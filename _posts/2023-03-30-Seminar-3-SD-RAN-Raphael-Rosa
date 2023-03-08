@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Inside an end-to-end SD-RAN trial"
+date:   2023-03-30  
+author: Raphael Vicente Rosa (Intel)
+categories: Seminars
+---
+
+**Abstract:** 
+
+This talk is about O-RAN, in specific the near-Real Time RAN Intelligent Controller (near-RT RIC). Besides presenting an architectural overview of the O-RAN architecture focusing on the near-RT RIC, the talk aims to elaborate on the internal aspects of the design, implementation and testing of the SD-RAN trial in Berlin, specifically describing the ONF SD-RAN project. The goal is to provide an overview of the O-RAN, the SD-RAN trial, the internal aspects of the ONF SD-RAN project, and the integration challenges.
+**Bio:** 
+
+<img alt="Paulo Curado CPQD Foto bio" src="https://github.com/ia377-feec-unicamp/ia377-feec-unicamp.github.io/blob/main/pictures/rapha.png?raw=true"  style="width: 200px; height: 200px;">
+*Raphael Vicente Rosa, Intel.*  
+
+Raphael Vicente Rosa, PhD in Computer Engineering by the University of Campinas in Brazil, currently works as a Cloud Software Development Engineer at Intel. Before he joined ONF where he worked on the design, implementation and testing of the SD-RAN and Aether projects. During his PhD, he worked for two years as a visiting researcher in Ericsson Research Hungary, in the EU-FP7 Unify and H2020 5G Exchange projects. His main interests sit on state-of-the-art SDN and NFV research topics entangled with disruptive technologies, aiming to open source his pet projects.
+
+**Recording and materials:**
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
