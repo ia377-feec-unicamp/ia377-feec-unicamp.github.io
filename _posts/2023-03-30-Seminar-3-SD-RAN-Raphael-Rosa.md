@@ -9,6 +9,7 @@ categories: Seminars
 **Abstract:** 
 
 This talk is about O-RAN, in specific the near-Real Time RAN Intelligent Controller (near-RT RIC). Besides presenting an architectural overview of the O-RAN architecture focusing on the near-RT RIC, the talk aims to elaborate on the internal aspects of the design, implementation and testing of the SD-RAN trial in Berlin, specifically describing the ONF SD-RAN project. The goal is to provide an overview of the O-RAN, the SD-RAN trial, the internal aspects of the ONF SD-RAN project, and the integration challenges.
+
 **Bio:** 
 
 <img alt="Paulo Curado CPQD Foto bio" src="https://raw.githubusercontent.com/ia377-feec-unicamp/ia377-feec-unicamp.github.io/main/pictures/rsz_rapha.png" >
