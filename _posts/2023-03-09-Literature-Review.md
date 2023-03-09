@@ -8,6 +8,6 @@ categories: Classes
 
 This introductory lecture for IA377 will be devoted to the topic of "Literature Review". 
 * What is a literature review?
-* Methodology, best Practices, tips, tools, etc.
-* Practial example
+* Methodology, best practices, tips, tools, etc.
+* Practical example
 * Application to IA377 seminar activities.
