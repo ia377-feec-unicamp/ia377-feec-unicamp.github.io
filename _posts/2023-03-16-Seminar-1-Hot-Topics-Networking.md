@@ -38,8 +38,11 @@ Christian has contributed to 07 international patents, co-authored three books, 
 
 **Recording and materials:**
 
-Here are the [Slides](https://docs.google.com/presentation/d/1cYE0TWTwzWpUtPCpfqIFdxkvTUn6pzN00sPrRWQmTVE/).
-that were first presented in Dec. 2022 at [RNP DPDITechTalk 14]([https://docs.google.com/presentation/d/1cYE0TWTwzWpUtPCpfqIFdxkvTUn6pzN00sPrRWQmTVE/](https://eduplay.rnp.br/portal/video/dpditechtalk14)).
+Here are the [Slides](https://docs.google.com/presentation/d/1HSjTb5TTbd8TzrBkwapJ0ohMVSsQVoEwSqymQrmCOz8/edit?usp=sharing).
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hleNGZ2IQw0/0.jpg)](http://www.youtube.com/watch?v=hleNGZ2IQw0)
+
+A Portuguese vesrion of this talk was were presented in Dec. 2022 at [RNP DPDITechTalk 14]([https://docs.google.com/presentation/d/1cYE0TWTwzWpUtPCpfqIFdxkvTUn6pzN00sPrRWQmTVE/](https://eduplay.rnp.br/portal/video/dpditechtalk14)).
+
+
 
