@@ -11,3 +11,8 @@ This introductory lecture for IA377 will be devoted to the topic of "Literature 
 * Methodology, best practices, tips, tools, etc.
 * Practical example
 * Application to IA377 seminar activities.
+
+
+**Materials:**
+
+[Slides](https://docs.google.com/presentation/d/1dSrzyIGnK7l0l5pVt1cQXk4jMgGMYHHb07GqX70fTWU/edit?usp=sharing).
