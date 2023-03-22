@@ -42,6 +42,9 @@ Here are the [Slides](https://docs.google.com/presentation/d/1HSjTb5TTbd8TzrBkwa
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hleNGZ2IQw0/0.jpg)](http://www.youtube.com/watch?v=hleNGZ2IQw0)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hleNGZ2IQw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 A Portuguese vesrion of this talk was were presented in Dec. 2022 at [RNP DPDITechTalk 14]([https://docs.google.com/presentation/d/1cYE0TWTwzWpUtPCpfqIFdxkvTUn6pzN00sPrRWQmTVE/](https://eduplay.rnp.br/portal/video/dpditechtalk14)).
 
 
