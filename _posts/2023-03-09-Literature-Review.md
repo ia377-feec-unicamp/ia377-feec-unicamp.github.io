@@ -13,6 +13,9 @@ This introductory lecture for IA377 will be devoted to the topic of "Literature 
 * Application to IA377 seminar activities.
 
 
-**Materials:**
+**Materials**
 
-[Slides](https://docs.google.com/presentation/d/1dSrzyIGnK7l0l5pVt1cQXk4jMgGMYHHb07GqX70fTWU/edit?usp=sharing).
+[Slides](https://docs.google.com/presentation/d/1dSrzyIGnK7l0l5pVt1cQXk4jMgGMYHHb07GqX70fTWU/edit?usp=sharing)
+
+<iframe src="https://github.com/ia377-feec-unicamp/ia377-feec-unicamp.github.io/raw/main/uploads/pdf/IA377-1S2023-Seminar-FEEC-UNICAMP-Aula-1-Literature-Review-PUBLIC.pdf" width="100%" height="500px">
+</iframe>
