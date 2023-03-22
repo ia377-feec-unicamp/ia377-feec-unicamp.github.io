@@ -42,6 +42,7 @@ Christian has contributed to 07 international patents, co-authored three books, 
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/tdVHMIAZaZ1PI8?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
+
 **Recording**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hleNGZ2IQw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
