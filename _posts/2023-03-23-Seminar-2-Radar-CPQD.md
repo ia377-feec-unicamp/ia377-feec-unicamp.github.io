@@ -8,7 +8,13 @@ categories: Seminars
 
 **Abstract:** 
 
- Radar Conecte-se ao Novo  traz uma análise abrangente, baseada na realidade brasileira, sobre a maturidade, o potencial de impacto e a perspectiva de adoção de 28 tecnologias selecionadas como relevantes nos cenários atual (pós-Covid 19) e futuro do país. O objetivo é apresentar uma visão atualizada sobre as tecnologias que estão viabilizando – ou irão viabilizar – a transformação digital em diversos setores econômicos, contribuindo para o planejamento e as decisões das empresas sobre sua adoção.
+O Radar Conecte-se ao Novo 2023 apresenta uma análise de 20 tecnologias selecionadas com base em exemplos de pesquisas e relatórios internacionais, nas edições anteriores do relatório e, também, na própria experiência do CPQD. Essas tecnologias foram agrupadas em quatro temas: Rede e Conectividade, Inteligência Artificial, Confiança, Privacidade e Segurança e Computação Avançada.
+
+A pesquisa, conduzida em 2022, contou com a participação de clientes, parceiros e diversos atores do ecossistema de inovação com os quais o CPQD mantém relacionamento no país. A grande maioria dos respondentes ocupam cargos executivos (diretor, presidente, vice-presidente, C-Level e gerentes) em empresas de vários setores. Entre os setores  representados na pesquisa, destacam-se Tecnologia da Informação, telecomunicações, indústria, agronegócio, academia e utilities.
+
+Para cada uma das 20 tecnologias selecionadas, o Radar Conecte-se ao Novo traz a avaliação de sua maturidade tecnológica (emergente, nascente, inicial ou convencional), o impacto previsto (baixo, médio, alto ou disruptivo) e o prazo para sua adoção (0 a 2 anos, 3 a 5 anos, ou mais de 5 anos). A representação visual e a segmentação dos resultados da pesquisa por setor econômico facilitam a análise dos cenários e tendências sobre as novas tecnologias. E, em cada bloco temático, especialistas do CPQD comentam os principais destaques na área.
+
+Em Rede e Conectividade, por exemplo, um dos destaques é a tecnologia 6G, que aparece no Radar com expectativa de disponibilidade em um horizonte de médio prazo. Inteligência Artificial das Coisas (AIoT) é outra tendência tecnológica analisada no trabalho. E, em Computação Avançada, destacam-se as tecnologias de Computação Quântica e Experiência Imersiva – Metaverso, entre outras.
 
 **Bio:** 
 
@@ -24,7 +30,10 @@ Tem experiência na condução de programas de Inovação Aberta e Conexões ao 
 
 **Recording and materials:**
 
-O resultado desse cuidadoso trabalho de pesquisa realizado pelo CPQD está disponível para os interessados  em 
- [https://materiais.cpqd.com.br/lp_relatorio_radar_tecnologico_2021_2022_cpqd](https://materiais.cpqd.com.br/lp_relatorio_radar_tecnologico_2021_2022_cpqd)
+O resultado desse trabalho de pesquisa realizado pelo CPQD está disponível para os interessados em 
+ [https://www.cpqd.com.br/noticias/cpqd-lanca-a-edicao-2023-do-radar-conecte-se-ao-novo/](https://www.cpqd.com.br/noticias/cpqd-lanca-a-edicao-2023-do-radar-conecte-se-ao-novo/)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6QqOEOOZaCQ/0.jpg)](http://www.youtube.com/watch?v=6QqOEOOZaCQ)
+
+
+
