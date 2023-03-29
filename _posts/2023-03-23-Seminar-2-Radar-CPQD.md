@@ -3,7 +3,7 @@ layout: post
 title:  "Radar Conecte-se ao Novo"
 date:   2023-03-23
 author: Paulo Curado (CPQD)
-categories: Seminars (Past)
+categories: "Seminars (Past)"
 ---
 
 **Abstract** 
