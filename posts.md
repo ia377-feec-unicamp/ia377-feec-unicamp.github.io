@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Schedule"
+title: "Seminar Schedule"
 permalink: /schedule/
 main_nav: true
 ---
