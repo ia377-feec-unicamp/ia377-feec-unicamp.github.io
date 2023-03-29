@@ -3,7 +3,7 @@ layout: post
 title:  "HTTP Adaptive Streaming (HAS) — Quo Vadis? "
 date:   2023-06-01  
 author: Christian Timmerer (AAU)
-categories: "Seminars (Future)"
+categories: Future
 ---
 
 **Abstract** 
