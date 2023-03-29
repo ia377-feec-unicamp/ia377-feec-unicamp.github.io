@@ -3,7 +3,7 @@ layout: post
 title:  "Internet Quântica: o Futuro das Interconexões de Redes"
 date:   2023-04-20  
 author: Antônio Abelém (UFPA)
-categories: Seminars (Future)
+categories: Future
 ---
 
 **Abstract** 
