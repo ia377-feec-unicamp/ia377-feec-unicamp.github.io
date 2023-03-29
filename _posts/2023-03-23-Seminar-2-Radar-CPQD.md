@@ -6,7 +6,7 @@ author: Paulo Curado (CPQD)
 categories: Seminars
 ---
 
-**Abstract:** 
+**Abstract** 
 
 O Radar Conecte-se ao Novo 2023 apresenta uma análise de 20 tecnologias selecionadas com base em exemplos de pesquisas e relatórios internacionais, nas edições anteriores do relatório e, também, na própria experiência do CPQD. Essas tecnologias foram agrupadas em quatro temas: Rede e Conectividade, Inteligência Artificial, Confiança, Privacidade e Segurança e Computação Avançada.
 
@@ -16,7 +16,7 @@ Para cada uma das 20 tecnologias selecionadas, o Radar Conecte-se ao Novo traz a
 
 Em Rede e Conectividade, por exemplo, um dos destaques é a tecnologia 6G, que aparece no Radar com expectativa de disponibilidade em um horizonte de médio prazo. Inteligência Artificial das Coisas (AIoT) é outra tendência tecnológica analisada no trabalho. E, em Computação Avançada, destacam-se as tecnologias de Computação Quântica e Experiência Imersiva – Metaverso, entre outras.
 
-**Bio:** 
+**Bio** 
 
 <img alt="Paulo Curado CPQD Foto bio" src="https://media.datacenterdynamics.com/media/images/Paulo_Curado_-_CPQD.2e16d0ba.fill-200x200.jpg"  style="width: 200px; height: 200px;">
 *Paulo Jose Pereira Curado. Diretor de Inovação, CPQD.*  
@@ -28,8 +28,10 @@ Possui experiência na condução de unidades e equipes de P&D e Inovação, res
 Tem experiência na condução de programas de Inovação Aberta e Conexões ao Ecossistemas de inovação nos mercados de TI, Telecom, Energia e Indústria. Tem expressivo networking na área de P&D, Fundos de Fomento, Startups, Avaliação de Conformidade e Telecomunicações.
 
 
-**Recording and materials:**
+**Recording and materials**
 
+[Slides (PDF)](https://github.com/ia377-feec-unicamp/ia377-feec-unicamp.github.io/raw/main/uploads/pdf/CPQD_RADAR_2023_v2.pdf)
+ 
 O resultado desse trabalho de pesquisa realizado pelo CPQD está disponível para os interessados em 
  [https://www.cpqd.com.br/noticias/cpqd-lanca-a-edicao-2023-do-radar-conecte-se-ao-novo/](https://www.cpqd.com.br/noticias/cpqd-lanca-a-edicao-2023-do-radar-conecte-se-ao-novo/)
 
