@@ -3,7 +3,7 @@ layout: post
 title:  "Transformando a pesquisa universitária em inovação no mercado"
 date:   2023-04-13  
 author: Marcos Rogério Salvador (InovaTIC Soluções Tecnológicas)
-categories: Seminars
+categories: Seminars (Future)
 ---
 
 **Abstract:** 
