@@ -3,7 +3,7 @@ layout: post
 title:  "Inside an end-to-end trial of Software-Defined RAN (SD-RAN) "
 date:   2023-03-30  
 author: Raphael Vicente Rosa (Intel)
-categories: Future
+categories: Past
 ---
 
 **Abstract** 
