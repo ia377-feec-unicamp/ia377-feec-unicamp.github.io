@@ -17,7 +17,7 @@ Muitos já ouviram falar em “XR” ou Realidade Estendida. Nesse seminário, e
 <img alt="André Barros de Medeiros Foto bio" src="https://github.com/ia377-feec-unicamp/ia377-feec-unicamp.github.io/blob/main/pictures/andre2.png?raw=true" style="width: 214px; height: 400px;"  >
 *André Barros de Medeiros, Qualcomm.*  
 
-André Barros de Medeiros é Engenheiro Eletricista formado na Unicamp e atual mestrando na Pennsylvania State University em Engenharia de Software. Trabalha como Engenheiro de Software na divisão de XR da Qualcomm, empresa sediada em San Diego na Califórnia. Atualmente trabalha no desenvolvimento da Plataforma “Snapdragon Spaces” e com algorítmos de percepção, como por exemplo Detecção de Mãos, voltados para Realidade Aumentada.
+André Barros de Medeiros é Engenheiro Eletricista formado na Unicamp e atual mestrando na Pennsylvania State University em Engenharia de Software. Trabalha como Engenheiro de Software na divisão de XR da Qualcomm, empresa sediada em San Diego na Califórnia. Atualmente trabalha no desenvolvimento da Plataforma “Snapdragon Spaces” e com algoritmos de percepção, como por exemplo Detecção de Mãos, voltados para Realidade Aumentada.
 
  
 
