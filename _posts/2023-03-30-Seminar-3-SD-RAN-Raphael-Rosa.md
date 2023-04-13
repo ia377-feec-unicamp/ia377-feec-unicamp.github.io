@@ -19,6 +19,6 @@ Raphael Vicente Rosa, PhD in Computer Engineering by the University of Campinas 
 
 **Recording and materials**
 
-[https://youtube.com/live/zi3cjYrNBMI](https://youtube.com/live/zi3cjYrNBMI).
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/zi3cjYrNBMI/0.jpg)](http://www.youtube.com/watch?v=zi3cjYrNBMI)
 
 
