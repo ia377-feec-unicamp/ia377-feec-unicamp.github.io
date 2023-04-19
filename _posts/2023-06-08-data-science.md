@@ -13,7 +13,7 @@ The Global Network Advancement Group (GNA-G) has brought together the major R&E 
 
 **Bio** 
 
-<img alt="Harvey Newman  Foto bio" src="https://github.com/ia377-feec-unicamp/ia377-feec-unicamp.github.io/blob/main/pictures/harvey.png?raw=true" style="width: 200px; height: 194px;" >
+<img alt="Harvey Newman  Foto bio" src="https://github.com/ia377-feec-unicamp/ia377-feec-unicamp.github.io/blob/main/pictures/harvey.png?raw=true" style="width: 224px; height: 278px;" >
 *Harvey Newman, (Caltech).*  
 
 Harvey Newman (Sc. D, MIT 1974), Professor of Physics at Caltech, has been a faculty member since 1982. He was a founder of the US LHC Users Organization in 2007, and he has chaired the Executive Committee of the US LHC Users Association since 2013. In 1973-4 he co-led the team that discovered the fourth quark flavor known as “charm”. He co-led the MARK J Collaboration that discovered the gluon, the carrier of the strong force in 1979. Since 1994 has been a member of CMS experiment at the Large Hadron Collider at CERN that discovered the Higgs boson at the LHC in 2012, and is now searching for additional Higgs particles, supersymmetry, extra dimensions, and other forms of exotic new particles and forces. He also led the MINOS and NOvA teams at Caltech studying neutrino oscillations in 2004-11.
