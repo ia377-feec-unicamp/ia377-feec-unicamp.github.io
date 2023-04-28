@@ -3,7 +3,7 @@ layout: post
 title:  "XR ou Realidade Estendida: Status quo"
 date:   2023-04-27  
 author: André de Medeiros (Qualcomm)
-categories: Future
+categories: Past
 ---
 
 **Abstract** 
@@ -23,3 +23,4 @@ André Barros de Medeiros é Engenheiro Eletricista formado na Unicamp e atual m
 
 **Recording and materials**
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/BM6mkuaY4SE/0.jpg)](http://www.youtube.com/watch?v=BM6mkuaY4SE)
