@@ -5,6 +5,7 @@ date:   2023-06-01
 author: Christian Timmerer (AAU)
 categories: Future
 ---
+***IEEE ComSoc Virtual Distinguished Lecture*** 
 
 **Abstract** 
 
