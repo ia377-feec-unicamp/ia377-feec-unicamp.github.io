@@ -28,3 +28,5 @@ Picture and extended bio here:
 
 **Recording and materials**
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/PiHuFikBdvE/0.jpg)](http://www.youtube.com/watch?v=PiHuFikBdvE)
+
